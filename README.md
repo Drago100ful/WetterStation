@@ -18,7 +18,7 @@ Es wird ein vollständig eingerichteter Raspberry-Pi 3, sowie Root-Rechte voraus
 
 Dem RPi ___muss___ eine statische IP-Adresse im Netzwerk vergeben werden!
 
-In `Software/WetterApp` führe das Installationscript aus:
+In `Software/Pi/` führe das Installationscript aus:
 
 `sudo ./install.py`
 
