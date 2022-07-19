@@ -14,7 +14,9 @@ In den Ordnern Bilder, Software, Hardware und Dokumentation finden sich verschie
 
 ## Vorbereitung der Komponenten
 
-Unterstützende Bilder finden sich im Ordner Bilder
+Unterstützende Bilder finden sich im Ordner Bilder.
+
+___Diese Belegung ist nur garantiert gültig für D1Z SENS BMP180 und D1Z DHT11.___
 
 ### Pinbelegung
 #### DHT11
