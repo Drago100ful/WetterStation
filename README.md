@@ -12,6 +12,27 @@ erfasst.
 
 In den Ordnern Bilder, Software, Hardware und Dokumentation finden sich verschiedene Ressourcen und Informationen zum Projekt.
 
+## Vorbereitung der Komponenten
+
+Unterstützende Bilder finden sich im Ordner Bilder
+
+### Pinbelegung
+#### DHT11
+
+Von Raspberry Pi >> DHT11
+
+ - Pin 1 auf 3.3V
+ - Pin 6 auf GND
+ - Pin 7 (GPIO 4) auf D4
+
+#### BMP180
+
+Von Raspberry Pi >> BMP180
+
+ - Pin 4 auf 5V
+ - Pin 9 auf GND
+ - Pin 3 auf D2
+ - Pin 5 auf D1
 
 ## Installation
 Es wird ein vollständig eingerichteter Raspberry-Pi 3, sowie Root-Rechte vorausgesetzt. __Es wird Raspberry Pi OS in der 64-Bit Variante empfohlen.__
